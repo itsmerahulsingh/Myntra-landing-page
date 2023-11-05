@@ -1,0 +1,38 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.left img{
+    width: 32px;
+    height: 23px;
+}
+.container{
+    padding: 0 10vw;
+    margin: auto;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+}
+.section1{
+    background-color: rgb(236, 236, 236);
+    height: 122vh;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    height: 48px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.search{
+    width: 34vw;
+    padding: 7px 17px;
+    border: 0.5px solid grey;
+    border-radius: 5px;
+}
+
+.homeImg{
+    width: 88vw;
+     margin: 18px 0;
+}
